@@ -1,0 +1,4 @@
+This is a demonstration of various file operations in C.
+Writing to a file is fun!
+Appending new data to the file.
+Appending new data to the file.
